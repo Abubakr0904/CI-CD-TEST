@@ -1,8 +1,6 @@
 # Inputs:
 #  client_payload.pull_request.number - PR number
 #  client_payload.pull_request.head.sha - PR SHA
-NPM_CONFIG_FORCE: true
-NPM_CONFIG_LEGACY_PEER_DEPS: true
 
 name: Create PR Staging Environment
 
