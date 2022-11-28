@@ -23,9 +23,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-        
-      - name: Install latest version of node
-        run: brew install node@18
 
       - name: Build static site
         run: npx gatsby build
