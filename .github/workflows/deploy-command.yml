@@ -1,4 +1,3 @@
-NODE_VERSION = "14"
 # Inputs:
 #  client_payload.pull_request.number - PR number
 #  client_payload.pull_request.head.sha - PR SHA
